@@ -4,6 +4,8 @@ A single-page web prototype with no backend, built from `Early Professional Yiel
 
 ## Run
 
+On a locked-down or work laptop, follow [SETUP.md](SETUP.md). It includes a no-install fallback: open `standalone/yield-advisor.html` in a browser.
+
 ```bash
 npm install
 npm run dev        # http://localhost:5199
