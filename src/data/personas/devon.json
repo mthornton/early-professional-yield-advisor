@@ -1,0 +1,1160 @@
+{
+  "id": "devon",
+  "profile": {
+    "name": "Devon",
+    "age": 27,
+    "city": "Austin",
+    "state": "TX",
+    "estimated_gross_income": 95000,
+    "filing_status": "single",
+    "situation": "Saving steadily in Chase Savings at 0.01%. No brokerage account."
+  },
+  "accounts": [
+    {
+      "id": "chk",
+      "type": "checking",
+      "name": "Chase Total Checking",
+      "balance": 14000,
+      "opening_balance": 6401.38
+    },
+    {
+      "id": "sav",
+      "type": "savings",
+      "name": "Chase Savings",
+      "balance": 6000,
+      "opening_balance": 4200
+    },
+    {
+      "id": "card",
+      "type": "credit_card",
+      "name": "Chase Freedom Flex",
+      "balance": 1260,
+      "revolving_balance": 0,
+      "apr": 0.2149
+    }
+  ],
+  "has_brokerage": false,
+  "brokerage_holdings": [],
+  "external_links": [],
+  "demo_answers": {
+    "timing": "anytime"
+  },
+  "period": {
+    "start": "2026-05-17",
+    "end": "2026-11-15"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 6368.38
+    },
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -46.91,
+      "category": "everyday",
+      "balance_after": 6321.47
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1244.07,
+      "category": "card_payment",
+      "balance_after": 5077.4
+    },
+    {
+      "date": "2026-05-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -29.32,
+      "category": "everyday",
+      "balance_after": 5048.08
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -45.43,
+      "category": "everyday",
+      "balance_after": 5002.65
+    },
+    {
+      "date": "2026-05-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -68.21,
+      "category": "everyday",
+      "balance_after": 4934.44
+    },
+    {
+      "date": "2026-05-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -49.98,
+      "category": "everyday",
+      "balance_after": 4884.46
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -35.66,
+      "category": "everyday",
+      "balance_after": 4848.8
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 7548.8
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 5898.8
+    },
+    {
+      "date": "2026-06-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 5598.8
+    },
+    {
+      "date": "2026-06-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 4500
+    },
+    {
+      "date": "2026-06-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -22.33,
+      "category": "everyday",
+      "balance_after": 5576.47
+    },
+    {
+      "date": "2026-06-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 5156.47
+    },
+    {
+      "date": "2026-06-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -64.93,
+      "category": "everyday",
+      "balance_after": 5091.54
+    },
+    {
+      "date": "2026-06-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -179.09,
+      "category": "utilities",
+      "balance_after": 4912.45
+    },
+    {
+      "date": "2026-06-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -50.13,
+      "category": "everyday",
+      "balance_after": 4862.32
+    },
+    {
+      "date": "2026-06-12",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 7562.32
+    },
+    {
+      "date": "2026-06-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 7550.32
+    },
+    {
+      "date": "2026-06-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -40.9,
+      "category": "everyday",
+      "balance_after": 7509.42
+    },
+    {
+      "date": "2026-06-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -66.77,
+      "category": "everyday",
+      "balance_after": 7442.65
+    },
+    {
+      "date": "2026-06-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 7409.65
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1594.62,
+      "category": "card_payment",
+      "balance_after": 5815.03
+    },
+    {
+      "date": "2026-06-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -46.88,
+      "category": "everyday",
+      "balance_after": 5768.15
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 8468.15
+    },
+    {
+      "date": "2026-06-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -74.52,
+      "category": "everyday",
+      "balance_after": 8393.63
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 6743.63
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -57.96,
+      "category": "everyday",
+      "balance_after": 6685.67
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 6385.67
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -30.98,
+      "category": "everyday",
+      "balance_after": 6354.69
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 4800
+    },
+    {
+      "date": "2026-07-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -55.53,
+      "category": "everyday",
+      "balance_after": 6299.16
+    },
+    {
+      "date": "2026-07-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -53.39,
+      "category": "everyday",
+      "balance_after": 6245.77
+    },
+    {
+      "date": "2026-07-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 5825.77
+    },
+    {
+      "date": "2026-07-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -20.23,
+      "category": "everyday",
+      "balance_after": 5805.54
+    },
+    {
+      "date": "2026-07-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -59.37,
+      "category": "everyday",
+      "balance_after": 5746.17
+    },
+    {
+      "date": "2026-07-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -170.02,
+      "category": "utilities",
+      "balance_after": 5576.15
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -50.42,
+      "category": "everyday",
+      "balance_after": 5525.73
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 8225.73
+    },
+    {
+      "date": "2026-07-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -54.97,
+      "category": "everyday",
+      "balance_after": 8170.76
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -67.24,
+      "category": "everyday",
+      "balance_after": 8103.52
+    },
+    {
+      "date": "2026-07-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -21.63,
+      "category": "everyday",
+      "balance_after": 8081.89
+    },
+    {
+      "date": "2026-07-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 8069.89
+    },
+    {
+      "date": "2026-07-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -29.31,
+      "category": "everyday",
+      "balance_after": 8040.58
+    },
+    {
+      "date": "2026-07-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -54.44,
+      "category": "everyday",
+      "balance_after": 7986.14
+    },
+    {
+      "date": "2026-07-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 7953.14
+    },
+    {
+      "date": "2026-07-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -72.31,
+      "category": "everyday",
+      "balance_after": 7880.83
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1281.92,
+      "category": "card_payment",
+      "balance_after": 6598.91
+    },
+    {
+      "date": "2026-07-24",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 9298.91
+    },
+    {
+      "date": "2026-07-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -50.51,
+      "category": "everyday",
+      "balance_after": 9248.4
+    },
+    {
+      "date": "2026-07-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -49.74,
+      "category": "everyday",
+      "balance_after": 9198.66
+    },
+    {
+      "date": "2026-07-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -56.66,
+      "category": "everyday",
+      "balance_after": 9142
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 7492
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -38.46,
+      "category": "everyday",
+      "balance_after": 7453.54
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 7153.54
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 5100
+    },
+    {
+      "date": "2026-08-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 6733.54
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 9433.54
+    },
+    {
+      "date": "2026-08-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -59.94,
+      "category": "everyday",
+      "balance_after": 9373.6
+    },
+    {
+      "date": "2026-08-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -163.74,
+      "category": "utilities",
+      "balance_after": 9209.86
+    },
+    {
+      "date": "2026-08-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -27.95,
+      "category": "everyday",
+      "balance_after": 9181.91
+    },
+    {
+      "date": "2026-08-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -59.47,
+      "category": "everyday",
+      "balance_after": 9122.44
+    },
+    {
+      "date": "2026-08-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -70.54,
+      "category": "everyday",
+      "balance_after": 9051.9
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -74.32,
+      "category": "everyday",
+      "balance_after": 8977.58
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 8965.58
+    },
+    {
+      "date": "2026-08-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -63.53,
+      "category": "everyday",
+      "balance_after": 8902.05
+    },
+    {
+      "date": "2026-08-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 8869.05
+    },
+    {
+      "date": "2026-08-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -37.16,
+      "category": "everyday",
+      "balance_after": 8831.89
+    },
+    {
+      "date": "2026-08-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -54.12,
+      "category": "everyday",
+      "balance_after": 8777.77
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1397.84,
+      "category": "card_payment",
+      "balance_after": 7379.93
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -26.05,
+      "category": "everyday",
+      "balance_after": 7353.88
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -63.17,
+      "category": "everyday",
+      "balance_after": 7290.71
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 9990.71
+    },
+    {
+      "date": "2026-08-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -35.62,
+      "category": "everyday",
+      "balance_after": 9955.09
+    },
+    {
+      "date": "2026-08-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -51.57,
+      "category": "everyday",
+      "balance_after": 9903.52
+    },
+    {
+      "date": "2026-09-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 8253.52
+    },
+    {
+      "date": "2026-09-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 7953.52
+    },
+    {
+      "date": "2026-09-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 5400
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -72.27,
+      "category": "everyday",
+      "balance_after": 7881.25
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 10581.25
+    },
+    {
+      "date": "2026-09-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 10161.25
+    },
+    {
+      "date": "2026-09-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -54.38,
+      "category": "everyday",
+      "balance_after": 10106.87
+    },
+    {
+      "date": "2026-09-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -151.77,
+      "category": "utilities",
+      "balance_after": 9955.1
+    },
+    {
+      "date": "2026-09-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -36.05,
+      "category": "everyday",
+      "balance_after": 9919.05
+    },
+    {
+      "date": "2026-09-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -73.54,
+      "category": "everyday",
+      "balance_after": 9845.51
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -29.21,
+      "category": "everyday",
+      "balance_after": 9816.3
+    },
+    {
+      "date": "2026-09-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 9804.3
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -41.26,
+      "category": "everyday",
+      "balance_after": 9763.04
+    },
+    {
+      "date": "2026-09-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -29.45,
+      "category": "everyday",
+      "balance_after": 9733.59
+    },
+    {
+      "date": "2026-09-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 9700.59
+    },
+    {
+      "date": "2026-09-18",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 12400.59
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1342.85,
+      "category": "card_payment",
+      "balance_after": 11057.74
+    },
+    {
+      "date": "2026-09-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -64.77,
+      "category": "everyday",
+      "balance_after": 10992.97
+    },
+    {
+      "date": "2026-09-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -43.88,
+      "category": "everyday",
+      "balance_after": 10949.09
+    },
+    {
+      "date": "2026-09-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -34.2,
+      "category": "everyday",
+      "balance_after": 10914.89
+    },
+    {
+      "date": "2026-09-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -51.49,
+      "category": "everyday",
+      "balance_after": 10863.4
+    },
+    {
+      "date": "2026-09-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -61.75,
+      "category": "everyday",
+      "balance_after": 10801.65
+    },
+    {
+      "date": "2026-09-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -56.86,
+      "category": "everyday",
+      "balance_after": 10744.79
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 9094.79
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -25.69,
+      "category": "everyday",
+      "balance_after": 9069.1
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 8769.1
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -30.07,
+      "category": "everyday",
+      "balance_after": 8739.03
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 5700
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 11439.03
+    },
+    {
+      "date": "2026-10-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -57.56,
+      "category": "everyday",
+      "balance_after": 11381.47
+    },
+    {
+      "date": "2026-10-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 10961.47
+    },
+    {
+      "date": "2026-10-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -66.63,
+      "category": "everyday",
+      "balance_after": 10894.84
+    },
+    {
+      "date": "2026-10-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -53.96,
+      "category": "everyday",
+      "balance_after": 10840.88
+    },
+    {
+      "date": "2026-10-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -158.33,
+      "category": "utilities",
+      "balance_after": 10682.55
+    },
+    {
+      "date": "2026-10-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 10670.55
+    },
+    {
+      "date": "2026-10-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -41.56,
+      "category": "everyday",
+      "balance_after": 10628.99
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -57.38,
+      "category": "everyday",
+      "balance_after": 10571.61
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 13271.61
+    },
+    {
+      "date": "2026-10-17",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -33,
+      "category": "subscription",
+      "balance_after": 13238.61
+    },
+    {
+      "date": "2026-10-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -53.74,
+      "category": "everyday",
+      "balance_after": 13184.87
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1314.27,
+      "category": "card_payment",
+      "balance_after": 11870.6
+    },
+    {
+      "date": "2026-10-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -44.29,
+      "category": "everyday",
+      "balance_after": 11826.31
+    },
+    {
+      "date": "2026-10-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -29.12,
+      "category": "everyday",
+      "balance_after": 11797.19
+    },
+    {
+      "date": "2026-10-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -25.62,
+      "category": "everyday",
+      "balance_after": 11771.57
+    },
+    {
+      "date": "2026-10-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -33.36,
+      "category": "everyday",
+      "balance_after": 11738.21
+    },
+    {
+      "date": "2026-10-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -47.26,
+      "category": "everyday",
+      "balance_after": 11690.95
+    },
+    {
+      "date": "2026-10-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -28.9,
+      "category": "everyday",
+      "balance_after": 11662.05
+    },
+    {
+      "date": "2026-10-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -51.95,
+      "category": "everyday",
+      "balance_after": 11610.1
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -66.61,
+      "category": "everyday",
+      "balance_after": 11543.49
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 14243.49
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -1650,
+      "category": "housing",
+      "balance_after": 12593.49
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -72.65,
+      "category": "everyday",
+      "balance_after": 12520.84
+    },
+    {
+      "date": "2026-11-02",
+      "account_id": "chk",
+      "description": "TRANSFER TO CHASE SAVINGS",
+      "amount": -300,
+      "category": "transfer_internal",
+      "balance_after": 12220.84
+    },
+    {
+      "date": "2026-11-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -52.8,
+      "category": "everyday",
+      "balance_after": 12168.04
+    },
+    {
+      "date": "2026-11-02",
+      "account_id": "sav",
+      "description": "TRANSFER FROM CHASE CHECKING",
+      "amount": 300,
+      "category": "transfer_internal",
+      "balance_after": 6000
+    },
+    {
+      "date": "2026-11-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -30.13,
+      "category": "everyday",
+      "balance_after": 12137.91
+    },
+    {
+      "date": "2026-11-05",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -420,
+      "category": "loan",
+      "balance_after": 11717.91
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "AUSTIN ENERGY UTILITY",
+      "amount": -192.13,
+      "category": "utilities",
+      "balance_after": 11525.78
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -24.51,
+      "category": "everyday",
+      "balance_after": 11501.27
+    },
+    {
+      "date": "2026-11-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -60.72,
+      "category": "everyday",
+      "balance_after": 11440.55
+    },
+    {
+      "date": "2026-11-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -64.72,
+      "category": "everyday",
+      "balance_after": 11375.83
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LONGHORN LOGISTICS",
+      "amount": 2700,
+      "category": "payroll",
+      "balance_after": 14075.83
+    },
+    {
+      "date": "2026-11-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -63.83,
+      "category": "everyday",
+      "balance_after": 14012
+    },
+    {
+      "date": "2026-11-14",
+      "account_id": "chk",
+      "description": "MUSIC STREAMING",
+      "amount": -12,
+      "category": "subscription",
+      "balance_after": 14000
+    }
+  ]
+}

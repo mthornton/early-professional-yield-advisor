@@ -1,0 +1,1251 @@
+{
+  "id": "priya",
+  "profile": {
+    "name": "Priya",
+    "age": 31,
+    "city": "New York",
+    "state": "NY",
+    "locality": "NYC",
+    "estimated_gross_income": 165000,
+    "filing_status": "single",
+    "situation": "High earner in New York City with $48k sitting in checking."
+  },
+  "accounts": [
+    {
+      "id": "chk",
+      "type": "checking",
+      "name": "Chase Total Checking",
+      "balance": 48000,
+      "opening_balance": 42203.42
+    },
+    {
+      "id": "card",
+      "type": "credit_card",
+      "name": "Chase Freedom Unlimited",
+      "balance": 1840,
+      "revolving_balance": 0,
+      "apr": 0.2049
+    },
+    {
+      "id": "sdi",
+      "type": "brokerage",
+      "name": "Self-Directed Investing",
+      "balance": 22000
+    }
+  ],
+  "has_brokerage": true,
+  "brokerage_holdings": [
+    {
+      "symbol": "VTI",
+      "name": "Total U.S. stock market ETF",
+      "value": 15400
+    },
+    {
+      "symbol": "VXUS",
+      "name": "Total international stock ETF",
+      "value": 6600
+    }
+  ],
+  "external_links": [],
+  "demo_answers": {
+    "timing": "anytime"
+  },
+  "period": {
+    "start": "2026-05-17",
+    "end": "2026-11-15"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -87.02,
+      "category": "everyday",
+      "balance_after": 42116.4
+    },
+    {
+      "date": "2026-05-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -28.39,
+      "category": "everyday",
+      "balance_after": 42088.01
+    },
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -38.08,
+      "category": "everyday",
+      "balance_after": 42049.93
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1781.39,
+      "category": "card_payment",
+      "balance_after": 40268.54
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -28.08,
+      "category": "everyday",
+      "balance_after": 40240.46
+    },
+    {
+      "date": "2026-05-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -66.51,
+      "category": "everyday",
+      "balance_after": 40173.95
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -85.93,
+      "category": "everyday",
+      "balance_after": 40088.02
+    },
+    {
+      "date": "2026-05-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -35.42,
+      "category": "everyday",
+      "balance_after": 40052.6
+    },
+    {
+      "date": "2026-05-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -70.26,
+      "category": "everyday",
+      "balance_after": 39982.34
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -26.95,
+      "category": "everyday",
+      "balance_after": 39955.39
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 44005.39
+    },
+    {
+      "date": "2026-05-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -34.53,
+      "category": "everyday",
+      "balance_after": 43970.86
+    },
+    {
+      "date": "2026-05-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -78.19,
+      "category": "everyday",
+      "balance_after": 43892.67
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 40292.67
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -90.94,
+      "category": "everyday",
+      "balance_after": 40201.73
+    },
+    {
+      "date": "2026-06-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -67.53,
+      "category": "everyday",
+      "balance_after": 40134.2
+    },
+    {
+      "date": "2026-06-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 39134.2
+    },
+    {
+      "date": "2026-06-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -50.43,
+      "category": "everyday",
+      "balance_after": 39083.77
+    },
+    {
+      "date": "2026-06-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -83.9,
+      "category": "everyday",
+      "balance_after": 38999.87
+    },
+    {
+      "date": "2026-06-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -87.12,
+      "category": "everyday",
+      "balance_after": 38912.75
+    },
+    {
+      "date": "2026-06-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -35.51,
+      "category": "everyday",
+      "balance_after": 38877.24
+    },
+    {
+      "date": "2026-06-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -155.25,
+      "category": "utilities",
+      "balance_after": 38721.99
+    },
+    {
+      "date": "2026-06-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -31.88,
+      "category": "everyday",
+      "balance_after": 38690.11
+    },
+    {
+      "date": "2026-06-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -76.33,
+      "category": "everyday",
+      "balance_after": 38613.78
+    },
+    {
+      "date": "2026-06-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 38590.78
+    },
+    {
+      "date": "2026-06-12",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 42640.78
+    },
+    {
+      "date": "2026-06-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -67.86,
+      "category": "everyday",
+      "balance_after": 42572.92
+    },
+    {
+      "date": "2026-06-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 42532.92
+    },
+    {
+      "date": "2026-06-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -87.72,
+      "category": "everyday",
+      "balance_after": 42445.2
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2158.88,
+      "category": "card_payment",
+      "balance_after": 40286.32
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -49.19,
+      "category": "everyday",
+      "balance_after": 40237.13
+    },
+    {
+      "date": "2026-06-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -63.29,
+      "category": "everyday",
+      "balance_after": 40173.84
+    },
+    {
+      "date": "2026-06-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -36.29,
+      "category": "everyday",
+      "balance_after": 40137.55
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -51.66,
+      "category": "everyday",
+      "balance_after": 40085.89
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 44135.89
+    },
+    {
+      "date": "2026-06-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -31.76,
+      "category": "everyday",
+      "balance_after": 44104.13
+    },
+    {
+      "date": "2026-06-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -88.62,
+      "category": "everyday",
+      "balance_after": 44015.51
+    },
+    {
+      "date": "2026-06-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -52.15,
+      "category": "everyday",
+      "balance_after": 43963.36
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 40363.36
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -61.38,
+      "category": "everyday",
+      "balance_after": 40301.98
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -75.44,
+      "category": "everyday",
+      "balance_after": 40226.54
+    },
+    {
+      "date": "2026-07-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 39226.54
+    },
+    {
+      "date": "2026-07-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -47.02,
+      "category": "everyday",
+      "balance_after": 39179.52
+    },
+    {
+      "date": "2026-07-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -27.72,
+      "category": "everyday",
+      "balance_after": 39151.8
+    },
+    {
+      "date": "2026-07-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -177.8,
+      "category": "utilities",
+      "balance_after": 38974
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 43024
+    },
+    {
+      "date": "2026-07-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -46.2,
+      "category": "everyday",
+      "balance_after": 42977.8
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -45.96,
+      "category": "everyday",
+      "balance_after": 42931.84
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 42908.84
+    },
+    {
+      "date": "2026-07-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 42868.84
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2024.36,
+      "category": "card_payment",
+      "balance_after": 40844.48
+    },
+    {
+      "date": "2026-07-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -65.68,
+      "category": "everyday",
+      "balance_after": 40778.8
+    },
+    {
+      "date": "2026-07-24",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 44828.8
+    },
+    {
+      "date": "2026-07-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -44.68,
+      "category": "everyday",
+      "balance_after": 44784.12
+    },
+    {
+      "date": "2026-07-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -30.29,
+      "category": "everyday",
+      "balance_after": 44753.83
+    },
+    {
+      "date": "2026-07-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -27.23,
+      "category": "everyday",
+      "balance_after": 44726.6
+    },
+    {
+      "date": "2026-07-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -50.43,
+      "category": "everyday",
+      "balance_after": 44676.17
+    },
+    {
+      "date": "2026-07-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -72.45,
+      "category": "everyday",
+      "balance_after": 44603.72
+    },
+    {
+      "date": "2026-07-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -43.46,
+      "category": "everyday",
+      "balance_after": 44560.26
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 40960.26
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -53.34,
+      "category": "everyday",
+      "balance_after": 40906.92
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -62.37,
+      "category": "everyday",
+      "balance_after": 40844.55
+    },
+    {
+      "date": "2026-08-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 39844.55
+    },
+    {
+      "date": "2026-08-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -65.36,
+      "category": "everyday",
+      "balance_after": 39779.19
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 43829.19
+    },
+    {
+      "date": "2026-08-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -133.72,
+      "category": "utilities",
+      "balance_after": 43695.47
+    },
+    {
+      "date": "2026-08-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -94.06,
+      "category": "everyday",
+      "balance_after": 43601.41
+    },
+    {
+      "date": "2026-08-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 43578.41
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -67.55,
+      "category": "everyday",
+      "balance_after": 43510.86
+    },
+    {
+      "date": "2026-08-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 43470.86
+    },
+    {
+      "date": "2026-08-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -71.95,
+      "category": "everyday",
+      "balance_after": 43398.91
+    },
+    {
+      "date": "2026-08-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -57.4,
+      "category": "everyday",
+      "balance_after": 43341.51
+    },
+    {
+      "date": "2026-08-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -88.29,
+      "category": "everyday",
+      "balance_after": 43253.22
+    },
+    {
+      "date": "2026-08-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -64.46,
+      "category": "everyday",
+      "balance_after": 43188.76
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2085.81,
+      "category": "card_payment",
+      "balance_after": 41102.95
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -68.84,
+      "category": "everyday",
+      "balance_after": 41034.11
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 45084.11
+    },
+    {
+      "date": "2026-08-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -62.85,
+      "category": "everyday",
+      "balance_after": 45021.26
+    },
+    {
+      "date": "2026-08-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -50.21,
+      "category": "everyday",
+      "balance_after": 44971.05
+    },
+    {
+      "date": "2026-08-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -37.97,
+      "category": "everyday",
+      "balance_after": 44933.08
+    },
+    {
+      "date": "2026-08-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -62.18,
+      "category": "everyday",
+      "balance_after": 44870.9
+    },
+    {
+      "date": "2026-08-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -70.83,
+      "category": "everyday",
+      "balance_after": 44800.07
+    },
+    {
+      "date": "2026-08-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -44.46,
+      "category": "everyday",
+      "balance_after": 44755.61
+    },
+    {
+      "date": "2026-08-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -49.29,
+      "category": "everyday",
+      "balance_after": 44706.32
+    },
+    {
+      "date": "2026-08-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -74.3,
+      "category": "everyday",
+      "balance_after": 44632.02
+    },
+    {
+      "date": "2026-08-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -67.53,
+      "category": "everyday",
+      "balance_after": 44564.49
+    },
+    {
+      "date": "2026-09-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 40964.49
+    },
+    {
+      "date": "2026-09-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 39964.49
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 44014.49
+    },
+    {
+      "date": "2026-09-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -43.63,
+      "category": "everyday",
+      "balance_after": 43970.86
+    },
+    {
+      "date": "2026-09-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -67.79,
+      "category": "everyday",
+      "balance_after": 43903.07
+    },
+    {
+      "date": "2026-09-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -79.19,
+      "category": "everyday",
+      "balance_after": 43823.88
+    },
+    {
+      "date": "2026-09-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -124.66,
+      "category": "utilities",
+      "balance_after": 43699.22
+    },
+    {
+      "date": "2026-09-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -44.41,
+      "category": "everyday",
+      "balance_after": 43654.81
+    },
+    {
+      "date": "2026-09-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -52.5,
+      "category": "everyday",
+      "balance_after": 43602.31
+    },
+    {
+      "date": "2026-09-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -43.06,
+      "category": "everyday",
+      "balance_after": 43559.25
+    },
+    {
+      "date": "2026-09-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -73.7,
+      "category": "everyday",
+      "balance_after": 43485.55
+    },
+    {
+      "date": "2026-09-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 43462.55
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -86.12,
+      "category": "everyday",
+      "balance_after": 43376.43
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 43336.43
+    },
+    {
+      "date": "2026-09-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -84.14,
+      "category": "everyday",
+      "balance_after": 43252.29
+    },
+    {
+      "date": "2026-09-18",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 47302.29
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1930.45,
+      "category": "card_payment",
+      "balance_after": 45371.84
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -56.03,
+      "category": "everyday",
+      "balance_after": 45315.81
+    },
+    {
+      "date": "2026-09-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -88.22,
+      "category": "everyday",
+      "balance_after": 45227.59
+    },
+    {
+      "date": "2026-09-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -30.02,
+      "category": "everyday",
+      "balance_after": 45197.57
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 41597.57
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -39.75,
+      "category": "everyday",
+      "balance_after": 41557.82
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 45607.82
+    },
+    {
+      "date": "2026-10-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 44607.82
+    },
+    {
+      "date": "2026-10-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -58.38,
+      "category": "everyday",
+      "balance_after": 44549.44
+    },
+    {
+      "date": "2026-10-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -73.2,
+      "category": "everyday",
+      "balance_after": 44476.24
+    },
+    {
+      "date": "2026-10-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -143.14,
+      "category": "utilities",
+      "balance_after": 44333.1
+    },
+    {
+      "date": "2026-10-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -55.69,
+      "category": "everyday",
+      "balance_after": 44277.41
+    },
+    {
+      "date": "2026-10-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -80.53,
+      "category": "everyday",
+      "balance_after": 44196.88
+    },
+    {
+      "date": "2026-10-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -58.47,
+      "category": "everyday",
+      "balance_after": 44138.41
+    },
+    {
+      "date": "2026-10-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 44115.41
+    },
+    {
+      "date": "2026-10-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -33.26,
+      "category": "everyday",
+      "balance_after": 44082.15
+    },
+    {
+      "date": "2026-10-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -74.74,
+      "category": "everyday",
+      "balance_after": 44007.41
+    },
+    {
+      "date": "2026-10-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 43967.41
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -26.35,
+      "category": "everyday",
+      "balance_after": 43941.06
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 47991.06
+    },
+    {
+      "date": "2026-10-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -29.76,
+      "category": "everyday",
+      "balance_after": 47961.3
+    },
+    {
+      "date": "2026-10-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -77.48,
+      "category": "everyday",
+      "balance_after": 47883.82
+    },
+    {
+      "date": "2026-10-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -53.33,
+      "category": "everyday",
+      "balance_after": 47830.49
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2116.01,
+      "category": "card_payment",
+      "balance_after": 45714.48
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -57.98,
+      "category": "everyday",
+      "balance_after": 45656.5
+    },
+    {
+      "date": "2026-10-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -94.82,
+      "category": "everyday",
+      "balance_after": 45561.68
+    },
+    {
+      "date": "2026-10-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -46.53,
+      "category": "everyday",
+      "balance_after": 45515.15
+    },
+    {
+      "date": "2026-10-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -36.08,
+      "category": "everyday",
+      "balance_after": 45479.07
+    },
+    {
+      "date": "2026-10-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -71.34,
+      "category": "everyday",
+      "balance_after": 45407.73
+    },
+    {
+      "date": "2026-10-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -33.97,
+      "category": "everyday",
+      "balance_after": 45373.76
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -40.66,
+      "category": "everyday",
+      "balance_after": 45333.1
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 49383.1
+    },
+    {
+      "date": "2026-10-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -68.56,
+      "category": "everyday",
+      "balance_after": 49314.54
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "ZELLE PAYMENT TO LANDLORD RENT",
+      "amount": -3600,
+      "category": "housing",
+      "balance_after": 45714.54
+    },
+    {
+      "date": "2026-11-03",
+      "account_id": "chk",
+      "description": "TRANSFER TO J.P. MORGAN SELF-DIRECTED INVESTING",
+      "amount": -1000,
+      "category": "transfer_brokerage_internal",
+      "balance_after": 44714.54
+    },
+    {
+      "date": "2026-11-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -29.49,
+      "category": "everyday",
+      "balance_after": 44685.05
+    },
+    {
+      "date": "2026-11-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -88,
+      "category": "everyday",
+      "balance_after": 44597.05
+    },
+    {
+      "date": "2026-11-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -84.88,
+      "category": "everyday",
+      "balance_after": 44512.17
+    },
+    {
+      "date": "2026-11-08",
+      "account_id": "chk",
+      "description": "CON EDISON UTILITY",
+      "amount": -167.64,
+      "category": "utilities",
+      "balance_after": 44344.53
+    },
+    {
+      "date": "2026-11-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -83.96,
+      "category": "everyday",
+      "balance_after": 44260.57
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -32.4,
+      "category": "everyday",
+      "balance_after": 44228.17
+    },
+    {
+      "date": "2026-11-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -85.2,
+      "category": "everyday",
+      "balance_after": 44142.97
+    },
+    {
+      "date": "2026-11-12",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 44119.97
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -49.19,
+      "category": "everyday",
+      "balance_after": 44070.78
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP NORTHWIND ANALYTICS",
+      "amount": 4050,
+      "category": "payroll",
+      "balance_after": 48120.78
+    },
+    {
+      "date": "2026-11-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -80.78,
+      "category": "everyday",
+      "balance_after": 48040
+    },
+    {
+      "date": "2026-11-15",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -40,
+      "category": "subscription",
+      "balance_after": 48000
+    }
+  ]
+}

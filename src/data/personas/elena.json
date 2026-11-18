@@ -1,0 +1,1043 @@
+{
+  "id": "elena",
+  "profile": {
+    "name": "Elena",
+    "age": 36,
+    "city": "Columbus",
+    "state": "OH",
+    "estimated_gross_income": 140000,
+    "filing_status": "single",
+    "situation": "A $60,000 bonus just landed. Buying a house in about nine months."
+  },
+  "accounts": [
+    {
+      "id": "chk",
+      "type": "checking",
+      "name": "Chase Total Checking",
+      "balance": 82000,
+      "opening_balance": 9426.58
+    },
+    {
+      "id": "card",
+      "type": "credit_card",
+      "name": "Chase Sapphire Preferred",
+      "balance": 2140,
+      "revolving_balance": 0,
+      "apr": 0.2149
+    }
+  ],
+  "has_brokerage": false,
+  "brokerage_holdings": [],
+  "external_links": [],
+  "demo_answers": {
+    "timing": "date",
+    "date": "2027-08-14",
+    "note": "House closing"
+  },
+  "period": {
+    "start": "2026-05-17",
+    "end": "2026-11-15"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -35.78,
+      "category": "everyday",
+      "balance_after": 9390.8
+    },
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -56.23,
+      "category": "everyday",
+      "balance_after": 9334.57
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2597.84,
+      "category": "card_payment",
+      "balance_after": 6736.73
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -46.47,
+      "category": "everyday",
+      "balance_after": 6690.26
+    },
+    {
+      "date": "2026-05-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -82.41,
+      "category": "everyday",
+      "balance_after": 6607.85
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -69.28,
+      "category": "everyday",
+      "balance_after": 6538.57
+    },
+    {
+      "date": "2026-05-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -24.36,
+      "category": "everyday",
+      "balance_after": 6514.21
+    },
+    {
+      "date": "2026-05-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -36.92,
+      "category": "everyday",
+      "balance_after": 6477.29
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 10137.29
+    },
+    {
+      "date": "2026-05-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -25.16,
+      "category": "everyday",
+      "balance_after": 10112.13
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 8012.13
+    },
+    {
+      "date": "2026-06-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -80.95,
+      "category": "everyday",
+      "balance_after": 7931.18
+    },
+    {
+      "date": "2026-06-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -54.66,
+      "category": "everyday",
+      "balance_after": 7876.52
+    },
+    {
+      "date": "2026-06-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 7426.52
+    },
+    {
+      "date": "2026-06-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -185.53,
+      "category": "utilities",
+      "balance_after": 7240.99
+    },
+    {
+      "date": "2026-06-12",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 10900.99
+    },
+    {
+      "date": "2026-06-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 10877.99
+    },
+    {
+      "date": "2026-06-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -62.43,
+      "category": "everyday",
+      "balance_after": 10815.56
+    },
+    {
+      "date": "2026-06-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -72.06,
+      "category": "everyday",
+      "balance_after": 10743.5
+    },
+    {
+      "date": "2026-06-16",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -47,
+      "category": "subscription",
+      "balance_after": 10696.5
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2509.49,
+      "category": "card_payment",
+      "balance_after": 8187.01
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -82.84,
+      "category": "everyday",
+      "balance_after": 8104.17
+    },
+    {
+      "date": "2026-06-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -42.5,
+      "category": "everyday",
+      "balance_after": 8061.67
+    },
+    {
+      "date": "2026-06-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -70.12,
+      "category": "everyday",
+      "balance_after": 7991.55
+    },
+    {
+      "date": "2026-06-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -46.99,
+      "category": "everyday",
+      "balance_after": 7944.56
+    },
+    {
+      "date": "2026-06-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -70.21,
+      "category": "everyday",
+      "balance_after": 7874.35
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 11534.35
+    },
+    {
+      "date": "2026-06-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -26.27,
+      "category": "everyday",
+      "balance_after": 11508.08
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 9408.08
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -65.6,
+      "category": "everyday",
+      "balance_after": 9342.48
+    },
+    {
+      "date": "2026-07-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -39.15,
+      "category": "everyday",
+      "balance_after": 9303.33
+    },
+    {
+      "date": "2026-07-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 8853.33
+    },
+    {
+      "date": "2026-07-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -45.01,
+      "category": "everyday",
+      "balance_after": 8808.32
+    },
+    {
+      "date": "2026-07-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -43.28,
+      "category": "everyday",
+      "balance_after": 8765.04
+    },
+    {
+      "date": "2026-07-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -52.45,
+      "category": "everyday",
+      "balance_after": 8712.59
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -188.68,
+      "category": "utilities",
+      "balance_after": 8523.91
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 12183.91
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -81.38,
+      "category": "everyday",
+      "balance_after": 12102.53
+    },
+    {
+      "date": "2026-07-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 12079.53
+    },
+    {
+      "date": "2026-07-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -63.34,
+      "category": "everyday",
+      "balance_after": 12016.19
+    },
+    {
+      "date": "2026-07-16",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -47,
+      "category": "subscription",
+      "balance_after": 11969.19
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2194.47,
+      "category": "card_payment",
+      "balance_after": 9774.72
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -46.24,
+      "category": "everyday",
+      "balance_after": 9728.48
+    },
+    {
+      "date": "2026-07-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -50.15,
+      "category": "everyday",
+      "balance_after": 9678.33
+    },
+    {
+      "date": "2026-07-24",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 13338.33
+    },
+    {
+      "date": "2026-07-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -47.44,
+      "category": "everyday",
+      "balance_after": 13290.89
+    },
+    {
+      "date": "2026-07-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -55.52,
+      "category": "everyday",
+      "balance_after": 13235.37
+    },
+    {
+      "date": "2026-07-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -77.71,
+      "category": "everyday",
+      "balance_after": 13157.66
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 11057.66
+    },
+    {
+      "date": "2026-08-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -75.53,
+      "category": "everyday",
+      "balance_after": 10982.13
+    },
+    {
+      "date": "2026-08-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -77.59,
+      "category": "everyday",
+      "balance_after": 10904.54
+    },
+    {
+      "date": "2026-08-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 10454.54
+    },
+    {
+      "date": "2026-08-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -26.47,
+      "category": "everyday",
+      "balance_after": 10428.07
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 14088.07
+    },
+    {
+      "date": "2026-08-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -173.86,
+      "category": "utilities",
+      "balance_after": 13914.21
+    },
+    {
+      "date": "2026-08-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -66.04,
+      "category": "everyday",
+      "balance_after": 13848.17
+    },
+    {
+      "date": "2026-08-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 13825.17
+    },
+    {
+      "date": "2026-08-16",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -47,
+      "category": "subscription",
+      "balance_after": 13778.17
+    },
+    {
+      "date": "2026-08-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -82.79,
+      "category": "everyday",
+      "balance_after": 13695.38
+    },
+    {
+      "date": "2026-08-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -63.12,
+      "category": "everyday",
+      "balance_after": 13632.26
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2307.82,
+      "category": "card_payment",
+      "balance_after": 11324.44
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 14984.44
+    },
+    {
+      "date": "2026-08-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -34.37,
+      "category": "everyday",
+      "balance_after": 14950.07
+    },
+    {
+      "date": "2026-08-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -38.1,
+      "category": "everyday",
+      "balance_after": 14911.97
+    },
+    {
+      "date": "2026-08-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -78.34,
+      "category": "everyday",
+      "balance_after": 14833.63
+    },
+    {
+      "date": "2026-09-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 12733.63
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 16393.63
+    },
+    {
+      "date": "2026-09-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 15943.63
+    },
+    {
+      "date": "2026-09-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -79.42,
+      "category": "everyday",
+      "balance_after": 15864.21
+    },
+    {
+      "date": "2026-09-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -36.54,
+      "category": "everyday",
+      "balance_after": 15827.67
+    },
+    {
+      "date": "2026-09-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -54.02,
+      "category": "everyday",
+      "balance_after": 15773.65
+    },
+    {
+      "date": "2026-09-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -197.15,
+      "category": "utilities",
+      "balance_after": 15576.5
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -79.52,
+      "category": "everyday",
+      "balance_after": 15496.98
+    },
+    {
+      "date": "2026-09-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -57.98,
+      "category": "everyday",
+      "balance_after": 15439
+    },
+    {
+      "date": "2026-09-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 15416
+    },
+    {
+      "date": "2026-09-16",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -47,
+      "category": "subscription",
+      "balance_after": 15369
+    },
+    {
+      "date": "2026-09-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -28.41,
+      "category": "everyday",
+      "balance_after": 15340.59
+    },
+    {
+      "date": "2026-09-18",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 19000.59
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2201.86,
+      "category": "card_payment",
+      "balance_after": 16798.73
+    },
+    {
+      "date": "2026-09-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -55.95,
+      "category": "everyday",
+      "balance_after": 16742.78
+    },
+    {
+      "date": "2026-09-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -54.81,
+      "category": "everyday",
+      "balance_after": 16687.97
+    },
+    {
+      "date": "2026-09-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -53.58,
+      "category": "everyday",
+      "balance_after": 16634.39
+    },
+    {
+      "date": "2026-09-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -40.5,
+      "category": "everyday",
+      "balance_after": 16593.89
+    },
+    {
+      "date": "2026-09-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -39.99,
+      "category": "everyday",
+      "balance_after": 16553.9
+    },
+    {
+      "date": "2026-09-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -53.73,
+      "category": "everyday",
+      "balance_after": 16500.17
+    },
+    {
+      "date": "2026-09-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -35.17,
+      "category": "everyday",
+      "balance_after": 16465
+    },
+    {
+      "date": "2026-09-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -52.66,
+      "category": "everyday",
+      "balance_after": 16412.34
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 14312.34
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 17972.34
+    },
+    {
+      "date": "2026-10-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 17522.34
+    },
+    {
+      "date": "2026-10-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -49.37,
+      "category": "everyday",
+      "balance_after": 17472.97
+    },
+    {
+      "date": "2026-10-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -206.56,
+      "category": "utilities",
+      "balance_after": 17266.41
+    },
+    {
+      "date": "2026-10-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -28.46,
+      "category": "everyday",
+      "balance_after": 17237.95
+    },
+    {
+      "date": "2026-10-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 17214.95
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -47,
+      "category": "subscription",
+      "balance_after": 17167.95
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -44.68,
+      "category": "everyday",
+      "balance_after": 17123.27
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 20783.27
+    },
+    {
+      "date": "2026-10-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -58.17,
+      "category": "everyday",
+      "balance_after": 20725.1
+    },
+    {
+      "date": "2026-10-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -36.21,
+      "category": "everyday",
+      "balance_after": 20688.89
+    },
+    {
+      "date": "2026-10-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -64.57,
+      "category": "everyday",
+      "balance_after": 20624.32
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -2407.49,
+      "category": "card_payment",
+      "balance_after": 18216.83
+    },
+    {
+      "date": "2026-10-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -32.54,
+      "category": "everyday",
+      "balance_after": 18184.29
+    },
+    {
+      "date": "2026-10-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -29.89,
+      "category": "everyday",
+      "balance_after": 18154.4
+    },
+    {
+      "date": "2026-10-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -42.04,
+      "category": "everyday",
+      "balance_after": 18112.36
+    },
+    {
+      "date": "2026-10-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -27.56,
+      "category": "everyday",
+      "balance_after": 18084.8
+    },
+    {
+      "date": "2026-10-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -41.57,
+      "category": "everyday",
+      "balance_after": 18043.23
+    },
+    {
+      "date": "2026-10-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -51.6,
+      "category": "everyday",
+      "balance_after": 17991.63
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -80.74,
+      "category": "everyday",
+      "balance_after": 17910.89
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 21570.89
+    },
+    {
+      "date": "2026-10-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -30.1,
+      "category": "everyday",
+      "balance_after": 21540.79
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2100,
+      "category": "housing",
+      "balance_after": 19440.79
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -67.47,
+      "category": "everyday",
+      "balance_after": 19373.32
+    },
+    {
+      "date": "2026-11-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -42.3,
+      "category": "everyday",
+      "balance_after": 19331.02
+    },
+    {
+      "date": "2026-11-06",
+      "account_id": "chk",
+      "description": "AUTO LOAN PAYMENT",
+      "amount": -450,
+      "category": "loan",
+      "balance_after": 18881.02
+    },
+    {
+      "date": "2026-11-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -46.64,
+      "category": "everyday",
+      "balance_after": 18834.38
+    },
+    {
+      "date": "2026-11-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -32.03,
+      "category": "everyday",
+      "balance_after": 18802.35
+    },
+    {
+      "date": "2026-11-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -24.65,
+      "category": "everyday",
+      "balance_after": 18777.7
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -45.31,
+      "category": "everyday",
+      "balance_after": 18732.39
+    },
+    {
+      "date": "2026-11-10",
+      "account_id": "chk",
+      "description": "AEP OHIO UTILITY",
+      "amount": -199.58,
+      "category": "utilities",
+      "balance_after": 18532.81
+    },
+    {
+      "date": "2026-11-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -55.5,
+      "category": "everyday",
+      "balance_after": 18477.31
+    },
+    {
+      "date": "2026-11-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -48.9,
+      "category": "everyday",
+      "balance_after": 18428.41
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -65.41,
+      "category": "everyday",
+      "balance_after": 18363
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -23,
+      "category": "subscription",
+      "balance_after": 18340
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS",
+      "amount": 3660,
+      "category": "payroll",
+      "balance_after": 22000
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BUCKEYE HEALTH SYSTEMS ANNUAL BONUS",
+      "amount": 60000,
+      "category": "bonus",
+      "balance_after": 82000
+    }
+  ]
+}

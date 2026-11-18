@@ -1,0 +1,1195 @@
+{
+  "id": "jordan",
+  "profile": {
+    "name": "Jordan",
+    "age": 34,
+    "city": "Chicago",
+    "state": "IL",
+    "estimated_gross_income": 210000,
+    "filing_status": "single",
+    "situation": "Strong income, but carrying $11,000 on a Sapphire card."
+  },
+  "accounts": [
+    {
+      "id": "chk",
+      "type": "checking",
+      "name": "Chase Total Checking",
+      "balance": 4000,
+      "opening_balance": 6325.59
+    },
+    {
+      "id": "card",
+      "type": "credit_card",
+      "name": "Chase Sapphire Reserve",
+      "balance": 11000,
+      "revolving_balance": 11000,
+      "apr": 0.2449
+    }
+  ],
+  "has_brokerage": false,
+  "brokerage_holdings": [],
+  "external_links": [],
+  "demo_answers": {
+    "timing": "anytime"
+  },
+  "period": {
+    "start": "2026-05-17",
+    "end": "2026-11-15"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 6250.59
+    },
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -94.98,
+      "category": "everyday",
+      "balance_after": 6155.61
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -4301.9,
+      "category": "card_payment",
+      "balance_after": 1853.71
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -73.71,
+      "category": "everyday",
+      "balance_after": 1780
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 6950
+    },
+    {
+      "date": "2026-05-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -136.73,
+      "category": "everyday",
+      "balance_after": 6813.27
+    },
+    {
+      "date": "2026-05-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -117.28,
+      "category": "everyday",
+      "balance_after": 6695.99
+    },
+    {
+      "date": "2026-05-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -1014.02,
+      "category": "everyday",
+      "balance_after": 5681.97
+    },
+    {
+      "date": "2026-05-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -157.4,
+      "category": "everyday",
+      "balance_after": 5524.57
+    },
+    {
+      "date": "2026-05-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -87.77,
+      "category": "everyday",
+      "balance_after": 5436.8
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 2236.8
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -95.5,
+      "category": "everyday",
+      "balance_after": 2141.3
+    },
+    {
+      "date": "2026-06-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 1491.3
+    },
+    {
+      "date": "2026-06-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -91.84,
+      "category": "everyday",
+      "balance_after": 1399.46
+    },
+    {
+      "date": "2026-06-05",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 6569.46
+    },
+    {
+      "date": "2026-06-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 5869.46
+    },
+    {
+      "date": "2026-06-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -74.66,
+      "category": "everyday",
+      "balance_after": 5794.8
+    },
+    {
+      "date": "2026-06-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -239.75,
+      "category": "utilities",
+      "balance_after": 5555.05
+    },
+    {
+      "date": "2026-06-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 5510.05
+    },
+    {
+      "date": "2026-06-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -41.45,
+      "category": "everyday",
+      "balance_after": 5468.6
+    },
+    {
+      "date": "2026-06-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -48.8,
+      "category": "everyday",
+      "balance_after": 5419.8
+    },
+    {
+      "date": "2026-06-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -52.29,
+      "category": "everyday",
+      "balance_after": 5367.51
+    },
+    {
+      "date": "2026-06-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -147.12,
+      "category": "everyday",
+      "balance_after": 5220.39
+    },
+    {
+      "date": "2026-06-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 5145.39
+    },
+    {
+      "date": "2026-06-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -157.3,
+      "category": "everyday",
+      "balance_after": 4988.09
+    },
+    {
+      "date": "2026-06-19",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 10158.09
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -5036.18,
+      "category": "card_payment",
+      "balance_after": 5121.91
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -88.84,
+      "category": "everyday",
+      "balance_after": 5033.07
+    },
+    {
+      "date": "2026-06-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-06-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -144.85,
+      "category": "everyday",
+      "balance_after": 4888.22
+    },
+    {
+      "date": "2026-06-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -822.9,
+      "category": "everyday",
+      "balance_after": 4065.32
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -53.62,
+      "category": "everyday",
+      "balance_after": 4011.7
+    },
+    {
+      "date": "2026-06-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -45.9,
+      "category": "everyday",
+      "balance_after": 3965.8
+    },
+    {
+      "date": "2026-06-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -57.09,
+      "category": "everyday",
+      "balance_after": 3908.71
+    },
+    {
+      "date": "2026-06-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -80.23,
+      "category": "everyday",
+      "balance_after": 3828.48
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 628.48
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -98.84,
+      "category": "everyday",
+      "balance_after": 529.64
+    },
+    {
+      "date": "2026-07-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -133.57,
+      "category": "everyday",
+      "balance_after": 396.07
+    },
+    {
+      "date": "2026-07-03",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 5566.07
+    },
+    {
+      "date": "2026-07-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 4916.07
+    },
+    {
+      "date": "2026-07-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -110.38,
+      "category": "everyday",
+      "balance_after": 4805.69
+    },
+    {
+      "date": "2026-07-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 4105.69
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -142.26,
+      "category": "everyday",
+      "balance_after": 3963.43
+    },
+    {
+      "date": "2026-07-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -206.64,
+      "category": "utilities",
+      "balance_after": 3756.79
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -49.53,
+      "category": "everyday",
+      "balance_after": 3707.26
+    },
+    {
+      "date": "2026-07-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -144.43,
+      "category": "everyday",
+      "balance_after": 3562.83
+    },
+    {
+      "date": "2026-07-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 3517.83
+    },
+    {
+      "date": "2026-07-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -70.91,
+      "category": "everyday",
+      "balance_after": 3446.92
+    },
+    {
+      "date": "2026-07-17",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 8616.92
+    },
+    {
+      "date": "2026-07-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 8541.92
+    },
+    {
+      "date": "2026-07-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -41.9,
+      "category": "everyday",
+      "balance_after": 8500.02
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -4022.82,
+      "category": "card_payment",
+      "balance_after": 4477.2
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -108.84,
+      "category": "everyday",
+      "balance_after": 4368.36
+    },
+    {
+      "date": "2026-07-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-07-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -879.78,
+      "category": "everyday",
+      "balance_after": 3488.58
+    },
+    {
+      "date": "2026-07-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -111.61,
+      "category": "everyday",
+      "balance_after": 3376.97
+    },
+    {
+      "date": "2026-07-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -59.63,
+      "category": "everyday",
+      "balance_after": 3317.34
+    },
+    {
+      "date": "2026-07-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -152.06,
+      "category": "everyday",
+      "balance_after": 3165.28
+    },
+    {
+      "date": "2026-07-31",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 8335.28
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 5135.28
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -96.51,
+      "category": "everyday",
+      "balance_after": 5038.77
+    },
+    {
+      "date": "2026-08-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 4388.77
+    },
+    {
+      "date": "2026-08-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -57.34,
+      "category": "everyday",
+      "balance_after": 4331.43
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 3631.43
+    },
+    {
+      "date": "2026-08-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -198.87,
+      "category": "utilities",
+      "balance_after": 3432.56
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 3387.56
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 8557.56
+    },
+    {
+      "date": "2026-08-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -130.18,
+      "category": "everyday",
+      "balance_after": 8427.38
+    },
+    {
+      "date": "2026-08-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -149.47,
+      "category": "everyday",
+      "balance_after": 8277.91
+    },
+    {
+      "date": "2026-08-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 8202.91
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -4030.06,
+      "category": "card_payment",
+      "balance_after": 4172.85
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -84.66,
+      "category": "everyday",
+      "balance_after": 4088.19
+    },
+    {
+      "date": "2026-08-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-08-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -997.44,
+      "category": "everyday",
+      "balance_after": 3090.75
+    },
+    {
+      "date": "2026-08-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -98.54,
+      "category": "everyday",
+      "balance_after": 2992.21
+    },
+    {
+      "date": "2026-08-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -98.43,
+      "category": "everyday",
+      "balance_after": 2893.78
+    },
+    {
+      "date": "2026-08-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -91.08,
+      "category": "everyday",
+      "balance_after": 2802.7
+    },
+    {
+      "date": "2026-08-28",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 7972.7
+    },
+    {
+      "date": "2026-08-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -147.59,
+      "category": "everyday",
+      "balance_after": 7825.11
+    },
+    {
+      "date": "2026-09-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 4625.11
+    },
+    {
+      "date": "2026-09-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -148.3,
+      "category": "everyday",
+      "balance_after": 4476.81
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 3826.81
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -41.14,
+      "category": "everyday",
+      "balance_after": 3785.67
+    },
+    {
+      "date": "2026-09-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -150.95,
+      "category": "everyday",
+      "balance_after": 3634.72
+    },
+    {
+      "date": "2026-09-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 2934.72
+    },
+    {
+      "date": "2026-09-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -133.32,
+      "category": "everyday",
+      "balance_after": 2801.4
+    },
+    {
+      "date": "2026-09-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -85.76,
+      "category": "everyday",
+      "balance_after": 2715.64
+    },
+    {
+      "date": "2026-09-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -159.36,
+      "category": "everyday",
+      "balance_after": 2556.28
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -201.12,
+      "category": "utilities",
+      "balance_after": 2355.16
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -84.17,
+      "category": "everyday",
+      "balance_after": 2270.99
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 7440.99
+    },
+    {
+      "date": "2026-09-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -128.53,
+      "category": "everyday",
+      "balance_after": 7312.46
+    },
+    {
+      "date": "2026-09-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -102.48,
+      "category": "everyday",
+      "balance_after": 7209.98
+    },
+    {
+      "date": "2026-09-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -98.38,
+      "category": "everyday",
+      "balance_after": 7111.6
+    },
+    {
+      "date": "2026-09-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 7066.6
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -133.85,
+      "category": "everyday",
+      "balance_after": 6932.75
+    },
+    {
+      "date": "2026-09-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -158.85,
+      "category": "everyday",
+      "balance_after": 6773.9
+    },
+    {
+      "date": "2026-09-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 6698.9
+    },
+    {
+      "date": "2026-09-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -44.76,
+      "category": "everyday",
+      "balance_after": 6654.14
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -4489.45,
+      "category": "card_payment",
+      "balance_after": 2164.69
+    },
+    {
+      "date": "2026-09-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -64.2,
+      "category": "everyday",
+      "balance_after": 2100.49
+    },
+    {
+      "date": "2026-09-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-09-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -148.82,
+      "category": "everyday",
+      "balance_after": 1951.67
+    },
+    {
+      "date": "2026-09-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -984.58,
+      "category": "everyday",
+      "balance_after": 967.09
+    },
+    {
+      "date": "2026-09-25",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 6137.09
+    },
+    {
+      "date": "2026-09-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -108.95,
+      "category": "everyday",
+      "balance_after": 6028.14
+    },
+    {
+      "date": "2026-09-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -80.48,
+      "category": "everyday",
+      "balance_after": 5947.66
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 2747.66
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -72.13,
+      "category": "everyday",
+      "balance_after": 2675.53
+    },
+    {
+      "date": "2026-10-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -113.31,
+      "category": "everyday",
+      "balance_after": 2562.22
+    },
+    {
+      "date": "2026-10-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 1912.22
+    },
+    {
+      "date": "2026-10-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -148.17,
+      "category": "everyday",
+      "balance_after": 1764.05
+    },
+    {
+      "date": "2026-10-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -84.29,
+      "category": "everyday",
+      "balance_after": 1679.76
+    },
+    {
+      "date": "2026-10-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 979.76
+    },
+    {
+      "date": "2026-10-09",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 6149.76
+    },
+    {
+      "date": "2026-10-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -130.81,
+      "category": "everyday",
+      "balance_after": 6018.95
+    },
+    {
+      "date": "2026-10-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -260.58,
+      "category": "utilities",
+      "balance_after": 5758.37
+    },
+    {
+      "date": "2026-10-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -87.14,
+      "category": "everyday",
+      "balance_after": 5671.23
+    },
+    {
+      "date": "2026-10-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -131.83,
+      "category": "everyday",
+      "balance_after": 5539.4
+    },
+    {
+      "date": "2026-10-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -147.55,
+      "category": "everyday",
+      "balance_after": 5391.85
+    },
+    {
+      "date": "2026-10-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 5346.85
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -43.88,
+      "category": "everyday",
+      "balance_after": 5302.97
+    },
+    {
+      "date": "2026-10-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -146.52,
+      "category": "everyday",
+      "balance_after": 5156.45
+    },
+    {
+      "date": "2026-10-18",
+      "account_id": "chk",
+      "description": "FITNESS CLUB MEMBERSHIP",
+      "amount": -75,
+      "category": "subscription",
+      "balance_after": 5081.45
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "CHASE SAPPHIRE AUTOPAY",
+      "amount": -4663.04,
+      "category": "card_payment",
+      "balance_after": 418.41
+    },
+    {
+      "date": "2026-10-22",
+      "account_id": "card",
+      "description": "INTEREST CHARGE ON PURCHASES",
+      "amount": -225,
+      "category": "interest_charge"
+    },
+    {
+      "date": "2026-10-23",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 5588.41
+    },
+    {
+      "date": "2026-10-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -158.13,
+      "category": "everyday",
+      "balance_after": 5430.28
+    },
+    {
+      "date": "2026-10-25",
+      "account_id": "chk",
+      "description": "TRAVEL BOOKING",
+      "amount": -910.65,
+      "category": "everyday",
+      "balance_after": 4519.63
+    },
+    {
+      "date": "2026-10-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -121.27,
+      "category": "everyday",
+      "balance_after": 4398.36
+    },
+    {
+      "date": "2026-10-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -127.33,
+      "category": "everyday",
+      "balance_after": 4271.03
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -141.7,
+      "category": "everyday",
+      "balance_after": 4129.33
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "CONDO RENT ACH",
+      "amount": -3200,
+      "category": "housing",
+      "balance_after": 929.33
+    },
+    {
+      "date": "2026-11-04",
+      "account_id": "chk",
+      "description": "STUDENT LOAN SERVICER",
+      "amount": -650,
+      "category": "loan",
+      "balance_after": 279.33
+    },
+    {
+      "date": "2026-11-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -158.82,
+      "category": "everyday",
+      "balance_after": 120.51
+    },
+    {
+      "date": "2026-11-06",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP LAKESHORE CAPITAL PARTNERS",
+      "amount": 5170,
+      "category": "payroll",
+      "balance_after": 5290.51
+    },
+    {
+      "date": "2026-11-07",
+      "account_id": "chk",
+      "description": "AUTO LEASE PAYMENT",
+      "amount": -700,
+      "category": "loan",
+      "balance_after": 4590.51
+    },
+    {
+      "date": "2026-11-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -89.39,
+      "category": "everyday",
+      "balance_after": 4501.12
+    },
+    {
+      "date": "2026-11-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -57.68,
+      "category": "everyday",
+      "balance_after": 4443.44
+    },
+    {
+      "date": "2026-11-11",
+      "account_id": "chk",
+      "description": "COMED UTILITY",
+      "amount": -177.65,
+      "category": "utilities",
+      "balance_after": 4265.79
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -102.64,
+      "category": "everyday",
+      "balance_after": 4163.15
+    },
+    {
+      "date": "2026-11-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -58.93,
+      "category": "everyday",
+      "balance_after": 4104.22
+    },
+    {
+      "date": "2026-11-14",
+      "account_id": "chk",
+      "description": "STREAMING SERVICES BUNDLE",
+      "amount": -45,
+      "category": "subscription",
+      "balance_after": 4059.22
+    },
+    {
+      "date": "2026-11-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -59.22,
+      "category": "everyday",
+      "balance_after": 4000
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "demo_date": "2026-11-16",
+  "brand": {
+    "product_label": "Online Banking",
+    "prototype_label": "Prototype, simulated data"
+  },
+  "ranking": {
+    "buffer_months": 1.5,
+    "round_down_to": 500,
+    "thin_buffer_months": 1.0,
+    "tie_break_points": 0.10,
+    "brokerage_open_extra_steps": 1
+  },
+  "nudges": {
+    "large_deposit_multiple": 2.0,
+    "idle_balance_outflow_multiple": 3.0,
+    "idle_balance_days": 60,
+    "money_leaving_min_occurrences": 3,
+    "suppress_days": 90,
+    "priority": ["large_deposit", "money_leaving", "idle_balance"]
+  },
+  "outside_institutions": {
+    "_note": "Simulated transaction descriptions are matched against these to detect money leaving. Names never appear in the comparison strip.",
+    "savings": ["ALLY BANK", "MARCUS", "SOFI", "DISCOVER BANK", "CAPITAL ONE 360", "AMEX SAVINGS"],
+    "brokerage": ["FIDELITY", "SCHWAB", "VANGUARD", "ROBINHOOD", "WEALTHFRONT", "BETTERMENT"]
+  },
+  "recurring_redirect": {
+    "_note": "First-year dollars from redirecting a monthly transfer: each deposit earns for the months left in the year (12 + 11 + ... + 1) / 12 = 6.5 months of the monthly amount.",
+    "first_year_balance_months": 6.5
+  },
+  "model": {
+    "provider": "openrouter",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "default_model": "anthropic/claude-sonnet-5.5",
+    "model_options": [
+      "anthropic/claude-sonnet-5.5",
+      "anthropic/claude-haiku-5.5",
+      "anthropic/claude-opus-5.5",
+      "openai/gpt-5.6-terra",
+      "google/gemini-3.8-flash"
+    ],
+    "timeout_ms": 20000,
+    "explanation_max_tokens": 2000,
+    "answer_max_tokens": 1200,
+    "answer_history_turns": 10,
+    "max_explanation_chars": 320
+  }
+}

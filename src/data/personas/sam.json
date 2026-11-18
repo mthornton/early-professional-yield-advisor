@@ -1,0 +1,1158 @@
+{
+  "id": "sam",
+  "profile": {
+    "name": "Sam",
+    "age": 29,
+    "city": "San Francisco",
+    "state": "CA",
+    "estimated_gross_income": 130000,
+    "filing_status": "single",
+    "situation": "Sends $2,000 a month to an outside savings account. Has an unused Self-Directed Investing account."
+  },
+  "accounts": [
+    {
+      "id": "chk",
+      "type": "checking",
+      "name": "Chase Total Checking",
+      "balance": 9000,
+      "opening_balance": 7422.86
+    },
+    {
+      "id": "card",
+      "type": "credit_card",
+      "name": "Chase Freedom Unlimited",
+      "balance": 980,
+      "revolving_balance": 0,
+      "apr": 0.2049
+    },
+    {
+      "id": "sdi",
+      "type": "brokerage",
+      "name": "Self-Directed Investing",
+      "balance": 0
+    }
+  ],
+  "has_brokerage": true,
+  "brokerage_holdings": [],
+  "external_links": [
+    {
+      "institution": "ALLY BANK",
+      "type": "savings",
+      "rate_category": "bench_top_online"
+    }
+  ],
+  "demo_answers": {
+    "timing": "anytime",
+    "redirect_recurring": true
+  },
+  "period": {
+    "start": "2026-05-17",
+    "end": "2026-11-15"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 7390.86
+    },
+    {
+      "date": "2026-05-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -24.81,
+      "category": "everyday",
+      "balance_after": 7366.05
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1121.16,
+      "category": "card_payment",
+      "balance_after": 6244.89
+    },
+    {
+      "date": "2026-05-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -58.85,
+      "category": "everyday",
+      "balance_after": 6186.04
+    },
+    {
+      "date": "2026-05-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -51.78,
+      "category": "everyday",
+      "balance_after": 6134.26
+    },
+    {
+      "date": "2026-05-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -40.26,
+      "category": "everyday",
+      "balance_after": 6094
+    },
+    {
+      "date": "2026-05-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -36.62,
+      "category": "everyday",
+      "balance_after": 6057.38
+    },
+    {
+      "date": "2026-05-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -52.16,
+      "category": "everyday",
+      "balance_after": 6005.22
+    },
+    {
+      "date": "2026-05-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -43.25,
+      "category": "everyday",
+      "balance_after": 5961.97
+    },
+    {
+      "date": "2026-05-29",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 9261.97
+    },
+    {
+      "date": "2026-05-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -46.9,
+      "category": "everyday",
+      "balance_after": 9215.07
+    },
+    {
+      "date": "2026-05-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -33.56,
+      "category": "everyday",
+      "balance_after": 9181.51
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 6381.51
+    },
+    {
+      "date": "2026-06-01",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -38.72,
+      "category": "everyday",
+      "balance_after": 6342.79
+    },
+    {
+      "date": "2026-06-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 4342.79
+    },
+    {
+      "date": "2026-06-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -17.47,
+      "category": "everyday",
+      "balance_after": 4325.32
+    },
+    {
+      "date": "2026-06-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -62.58,
+      "category": "everyday",
+      "balance_after": 4262.74
+    },
+    {
+      "date": "2026-06-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -24.78,
+      "category": "everyday",
+      "balance_after": 4237.96
+    },
+    {
+      "date": "2026-06-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -62.32,
+      "category": "everyday",
+      "balance_after": 4175.64
+    },
+    {
+      "date": "2026-06-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -58.63,
+      "category": "everyday",
+      "balance_after": 4117.01
+    },
+    {
+      "date": "2026-06-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -151.85,
+      "category": "utilities",
+      "balance_after": 3965.16
+    },
+    {
+      "date": "2026-06-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -32.63,
+      "category": "everyday",
+      "balance_after": 3932.53
+    },
+    {
+      "date": "2026-06-12",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 7232.53
+    },
+    {
+      "date": "2026-06-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -25.58,
+      "category": "everyday",
+      "balance_after": 7206.95
+    },
+    {
+      "date": "2026-06-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -22.59,
+      "category": "everyday",
+      "balance_after": 7184.36
+    },
+    {
+      "date": "2026-06-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 7166.36
+    },
+    {
+      "date": "2026-06-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 7134.36
+    },
+    {
+      "date": "2026-06-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -25.47,
+      "category": "everyday",
+      "balance_after": 7108.89
+    },
+    {
+      "date": "2026-06-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1445.02,
+      "category": "card_payment",
+      "balance_after": 5663.87
+    },
+    {
+      "date": "2026-06-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -22.11,
+      "category": "everyday",
+      "balance_after": 5641.76
+    },
+    {
+      "date": "2026-06-26",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 8941.76
+    },
+    {
+      "date": "2026-06-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -44.99,
+      "category": "everyday",
+      "balance_after": 8896.77
+    },
+    {
+      "date": "2026-06-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -19.66,
+      "category": "everyday",
+      "balance_after": 8877.11
+    },
+    {
+      "date": "2026-07-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 6077.11
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 4077.11
+    },
+    {
+      "date": "2026-07-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -55.88,
+      "category": "everyday",
+      "balance_after": 4021.23
+    },
+    {
+      "date": "2026-07-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -27.43,
+      "category": "everyday",
+      "balance_after": 3993.8
+    },
+    {
+      "date": "2026-07-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -26.33,
+      "category": "everyday",
+      "balance_after": 3967.47
+    },
+    {
+      "date": "2026-07-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -143.69,
+      "category": "utilities",
+      "balance_after": 3823.78
+    },
+    {
+      "date": "2026-07-10",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 7123.78
+    },
+    {
+      "date": "2026-07-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -45.66,
+      "category": "everyday",
+      "balance_after": 7078.12
+    },
+    {
+      "date": "2026-07-12",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -61.06,
+      "category": "everyday",
+      "balance_after": 7017.06
+    },
+    {
+      "date": "2026-07-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 6999.06
+    },
+    {
+      "date": "2026-07-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -30.87,
+      "category": "everyday",
+      "balance_after": 6968.19
+    },
+    {
+      "date": "2026-07-18",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -17.56,
+      "category": "everyday",
+      "balance_after": 6950.63
+    },
+    {
+      "date": "2026-07-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -61.89,
+      "category": "everyday",
+      "balance_after": 6888.74
+    },
+    {
+      "date": "2026-07-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 6856.74
+    },
+    {
+      "date": "2026-07-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1308.62,
+      "category": "card_payment",
+      "balance_after": 5548.12
+    },
+    {
+      "date": "2026-07-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -49.09,
+      "category": "everyday",
+      "balance_after": 5499.03
+    },
+    {
+      "date": "2026-07-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -61.05,
+      "category": "everyday",
+      "balance_after": 5437.98
+    },
+    {
+      "date": "2026-07-24",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 8737.98
+    },
+    {
+      "date": "2026-07-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -53.9,
+      "category": "everyday",
+      "balance_after": 8684.08
+    },
+    {
+      "date": "2026-07-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -41.58,
+      "category": "everyday",
+      "balance_after": 8642.5
+    },
+    {
+      "date": "2026-08-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 5842.5
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 3842.5
+    },
+    {
+      "date": "2026-08-02",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -50.46,
+      "category": "everyday",
+      "balance_after": 3792.04
+    },
+    {
+      "date": "2026-08-04",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -60.36,
+      "category": "everyday",
+      "balance_after": 3731.68
+    },
+    {
+      "date": "2026-08-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -37.74,
+      "category": "everyday",
+      "balance_after": 3693.94
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -39.01,
+      "category": "everyday",
+      "balance_after": 3654.93
+    },
+    {
+      "date": "2026-08-07",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 6954.93
+    },
+    {
+      "date": "2026-08-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -44.55,
+      "category": "everyday",
+      "balance_after": 6910.38
+    },
+    {
+      "date": "2026-08-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -145.34,
+      "category": "utilities",
+      "balance_after": 6765.04
+    },
+    {
+      "date": "2026-08-10",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -31.3,
+      "category": "everyday",
+      "balance_after": 6733.74
+    },
+    {
+      "date": "2026-08-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -56.27,
+      "category": "everyday",
+      "balance_after": 6677.47
+    },
+    {
+      "date": "2026-08-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -22.05,
+      "category": "everyday",
+      "balance_after": 6655.42
+    },
+    {
+      "date": "2026-08-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -50.07,
+      "category": "everyday",
+      "balance_after": 6605.35
+    },
+    {
+      "date": "2026-08-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 6587.35
+    },
+    {
+      "date": "2026-08-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -45.84,
+      "category": "everyday",
+      "balance_after": 6541.51
+    },
+    {
+      "date": "2026-08-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -32.35,
+      "category": "everyday",
+      "balance_after": 6509.16
+    },
+    {
+      "date": "2026-08-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 6477.16
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1144.73,
+      "category": "card_payment",
+      "balance_after": 5332.43
+    },
+    {
+      "date": "2026-08-20",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -34.36,
+      "category": "everyday",
+      "balance_after": 5298.07
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -20.63,
+      "category": "everyday",
+      "balance_after": 5277.44
+    },
+    {
+      "date": "2026-08-21",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 8577.44
+    },
+    {
+      "date": "2026-08-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -45.81,
+      "category": "everyday",
+      "balance_after": 8531.63
+    },
+    {
+      "date": "2026-08-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -43.02,
+      "category": "everyday",
+      "balance_after": 8488.61
+    },
+    {
+      "date": "2026-08-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -63.6,
+      "category": "everyday",
+      "balance_after": 8425.01
+    },
+    {
+      "date": "2026-08-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -56.72,
+      "category": "everyday",
+      "balance_after": 8368.29
+    },
+    {
+      "date": "2026-08-27",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -62.73,
+      "category": "everyday",
+      "balance_after": 8305.56
+    },
+    {
+      "date": "2026-08-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -58.92,
+      "category": "everyday",
+      "balance_after": 8246.64
+    },
+    {
+      "date": "2026-08-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -23.75,
+      "category": "everyday",
+      "balance_after": 8222.89
+    },
+    {
+      "date": "2026-08-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -46.77,
+      "category": "everyday",
+      "balance_after": 8176.12
+    },
+    {
+      "date": "2026-09-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 5376.12
+    },
+    {
+      "date": "2026-09-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 3376.12
+    },
+    {
+      "date": "2026-09-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -35.54,
+      "category": "everyday",
+      "balance_after": 3340.58
+    },
+    {
+      "date": "2026-09-04",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 6640.58
+    },
+    {
+      "date": "2026-09-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -35.67,
+      "category": "everyday",
+      "balance_after": 6604.91
+    },
+    {
+      "date": "2026-09-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -163.42,
+      "category": "utilities",
+      "balance_after": 6441.49
+    },
+    {
+      "date": "2026-09-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -57.47,
+      "category": "everyday",
+      "balance_after": 6384.02
+    },
+    {
+      "date": "2026-09-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -63.97,
+      "category": "everyday",
+      "balance_after": 6320.05
+    },
+    {
+      "date": "2026-09-14",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -22.37,
+      "category": "everyday",
+      "balance_after": 6297.68
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE BOOKSTORE",
+      "amount": -35.67,
+      "category": "everyday",
+      "balance_after": 6262.01
+    },
+    {
+      "date": "2026-09-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 6244.01
+    },
+    {
+      "date": "2026-09-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RIDESHARE",
+      "amount": -61.33,
+      "category": "everyday",
+      "balance_after": 6182.68
+    },
+    {
+      "date": "2026-09-18",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 9482.68
+    },
+    {
+      "date": "2026-09-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 9450.68
+    },
+    {
+      "date": "2026-09-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -28.05,
+      "category": "everyday",
+      "balance_after": 9422.63
+    },
+    {
+      "date": "2026-09-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1446.44,
+      "category": "card_payment",
+      "balance_after": 7976.19
+    },
+    {
+      "date": "2026-09-21",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -38.07,
+      "category": "everyday",
+      "balance_after": 7938.12
+    },
+    {
+      "date": "2026-09-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -27.01,
+      "category": "everyday",
+      "balance_after": 7911.11
+    },
+    {
+      "date": "2026-09-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -22.31,
+      "category": "everyday",
+      "balance_after": 7888.8
+    },
+    {
+      "date": "2026-09-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -29.62,
+      "category": "everyday",
+      "balance_after": 7859.18
+    },
+    {
+      "date": "2026-09-26",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -34.22,
+      "category": "everyday",
+      "balance_after": 7824.96
+    },
+    {
+      "date": "2026-09-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -61.47,
+      "category": "everyday",
+      "balance_after": 7763.49
+    },
+    {
+      "date": "2026-10-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 4963.49
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 2963.49
+    },
+    {
+      "date": "2026-10-02",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 6263.49
+    },
+    {
+      "date": "2026-10-03",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -19.61,
+      "category": "everyday",
+      "balance_after": 6243.88
+    },
+    {
+      "date": "2026-10-05",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -55.36,
+      "category": "everyday",
+      "balance_after": 6188.52
+    },
+    {
+      "date": "2026-10-06",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE CLOTHING STORE",
+      "amount": -25.93,
+      "category": "everyday",
+      "balance_after": 6162.59
+    },
+    {
+      "date": "2026-10-08",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -63.19,
+      "category": "everyday",
+      "balance_after": 6099.4
+    },
+    {
+      "date": "2026-10-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -131.1,
+      "category": "utilities",
+      "balance_after": 5968.3
+    },
+    {
+      "date": "2026-10-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE HARDWARE STORE",
+      "amount": -51.42,
+      "category": "everyday",
+      "balance_after": 5916.88
+    },
+    {
+      "date": "2026-10-11",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE PHARMACY",
+      "amount": -61.08,
+      "category": "everyday",
+      "balance_after": 5855.8
+    },
+    {
+      "date": "2026-10-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 5837.8
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -40.26,
+      "category": "everyday",
+      "balance_after": 5797.54
+    },
+    {
+      "date": "2026-10-16",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 9097.54
+    },
+    {
+      "date": "2026-10-17",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -37.62,
+      "category": "everyday",
+      "balance_after": 9059.92
+    },
+    {
+      "date": "2026-10-19",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -42.94,
+      "category": "everyday",
+      "balance_after": 9016.98
+    },
+    {
+      "date": "2026-10-19",
+      "account_id": "chk",
+      "description": "MOBILE PHONE CARRIER",
+      "amount": -32,
+      "category": "subscription",
+      "balance_after": 8984.98
+    },
+    {
+      "date": "2026-10-20",
+      "account_id": "chk",
+      "description": "CHASE CARD AUTOPAY",
+      "amount": -1247.62,
+      "category": "card_payment",
+      "balance_after": 7737.36
+    },
+    {
+      "date": "2026-10-22",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -38.56,
+      "category": "everyday",
+      "balance_after": 7698.8
+    },
+    {
+      "date": "2026-10-23",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -35.07,
+      "category": "everyday",
+      "balance_after": 7663.73
+    },
+    {
+      "date": "2026-10-24",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GROCERY MARKET",
+      "amount": -21.93,
+      "category": "everyday",
+      "balance_after": 7641.8
+    },
+    {
+      "date": "2026-10-25",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GYM DAY PASS",
+      "amount": -61.87,
+      "category": "everyday",
+      "balance_after": 7579.93
+    },
+    {
+      "date": "2026-10-28",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE ONLINE RETAIL",
+      "amount": -51,
+      "category": "everyday",
+      "balance_after": 7528.93
+    },
+    {
+      "date": "2026-10-29",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE DELI",
+      "amount": -30.13,
+      "category": "everyday",
+      "balance_after": 7498.8
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -22.23,
+      "category": "everyday",
+      "balance_after": 7476.57
+    },
+    {
+      "date": "2026-10-30",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 10776.57
+    },
+    {
+      "date": "2026-10-31",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE GAS STATION",
+      "amount": -17.37,
+      "category": "everyday",
+      "balance_after": 10759.2
+    },
+    {
+      "date": "2026-11-01",
+      "account_id": "chk",
+      "description": "APARTMENT RENT ACH",
+      "amount": -2800,
+      "category": "housing",
+      "balance_after": 7959.2
+    },
+    {
+      "date": "2026-11-02",
+      "account_id": "chk",
+      "description": "ONLINE TRANSFER TO ALLY BANK SAVINGS XXXX4417",
+      "amount": -2000,
+      "category": "transfer_outside",
+      "balance_after": 5959.2
+    },
+    {
+      "date": "2026-11-07",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -52.08,
+      "category": "everyday",
+      "balance_after": 5907.12
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "PG&E UTILITY",
+      "amount": -150.21,
+      "category": "utilities",
+      "balance_after": 5756.91
+    },
+    {
+      "date": "2026-11-09",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE RESTAURANT",
+      "amount": -18.61,
+      "category": "everyday",
+      "balance_after": 5738.3
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "DEBIT CARD PURCHASE COFFEE SHOP",
+      "amount": -20.3,
+      "category": "everyday",
+      "balance_after": 5718
+    },
+    {
+      "date": "2026-11-13",
+      "account_id": "chk",
+      "description": "PAYROLL DIRECT DEP BAYVIEW SOFTWARE",
+      "amount": 3300,
+      "category": "payroll",
+      "balance_after": 9018
+    },
+    {
+      "date": "2026-11-15",
+      "account_id": "chk",
+      "description": "STREAMING SERVICE",
+      "amount": -18,
+      "category": "subscription",
+      "balance_after": 9000
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "_note": "ALL TEXT HERE IS PLACEHOLDER. Legal supplies the real language.",
+  "placeholder_label": "Placeholder disclosure text — not reviewed by Legal",
+  "items": {
+    "data_consent": {
+      "title": "Use of your account data",
+      "short": "To rank options for you, we'll look at your Chase balances, recent deposits and spending, your state, and any card balances. We don't share this outside Chase.",
+      "full": "Placeholder: Consent to use account and transaction data held by JPMorgan Chase Bank, N.A. and its affiliates to produce a personalized cash-placement suggestion. You can withdraw consent at any time."
+    },
+    "investments_not_deposits": {
+      "title": "Some options are investments",
+      "short": "Some options here are investments, not deposits. They are not FDIC-insured, are not bank guaranteed, and may lose value.",
+      "full": "Placeholder: INVESTMENT AND INSURANCE PRODUCTS ARE: NOT FDIC INSURED • NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY • NOT A DEPOSIT OR OTHER OBLIGATION OF, OR GUARANTEED BY, JPMORGAN CHASE BANK, N.A. OR ANY OF ITS AFFILIATES • SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT INVESTED."
+    },
+    "advice_basis": {
+      "title": "How this ranking works",
+      "short": "Ranking uses fixed rules on your data and today's rate snapshot. Rates change. Tax figures are estimates, not tax advice.",
+      "full": "Placeholder: Rankings are produced by a deterministic rules table using estimated marginal tax rates derived from deposit history. They are not tax, legal, or investment advice beyond cash placement."
+    },
+    "deposit_general": {
+      "title": "Deposit products",
+      "short": "Deposits are FDIC-insured up to applicable limits.",
+      "full": "Placeholder: Deposit products provided by JPMorgan Chase Bank, N.A. Member FDIC."
+    },
+    "cd_penalty": {
+      "title": "CD early withdrawal",
+      "short": "Withdrawing before maturity costs interest.",
+      "full": "Placeholder: A penalty applies to early withdrawal of principal. See the Deposit Account Agreement."
+    },
+    "premium_deposit": {
+      "title": "J.P. Morgan Premium Deposit",
+      "short": "Bank deposit held through a Self-Directed Investing account. $50,000 minimum. Rate can change at any time.",
+      "full": "Placeholder: Premium Deposit is a deposit of JPMorgan Chase Bank, N.A., FDIC-insured up to applicable limits, accessed through a J.P. Morgan Securities LLC brokerage account."
+    },
+    "mmf": {
+      "title": "Money market funds",
+      "short": "You could lose money. A money market fund is not a bank deposit and is not FDIC-insured. It seeks to keep a $1.00 share price but cannot guarantee it.",
+      "full": "Placeholder: You could lose money by investing in the Fund. Although the Fund seeks to preserve the value of your investment at $1.00 per share, it cannot guarantee it will do so. An investment in the Fund is not a bank account and is not insured or guaranteed by the FDIC or any other government agency. Read the prospectus before investing."
+    },
+    "tbill": {
+      "title": "Treasury bills",
+      "short": "Backed by the U.S. government when held to maturity. Selling before maturity can return less than you paid.",
+      "full": "Placeholder: Treasury bills are offered through J.P. Morgan Securities LLC, member FINRA and SIPC. Prices fluctuate before maturity."
+    },
+    "brokerage_account": {
+      "title": "Self-Directed Investing",
+      "short": "Needs a J.P. Morgan Self-Directed Investing account (brokerage, J.P. Morgan Securities LLC, member FINRA/SIPC).",
+      "full": "Placeholder: Self-Directed Investing accounts are brokerage accounts with J.P. Morgan Securities LLC, member FINRA and SIPC. SIPC protection does not cover loss of market value."
+    },
+    "order_final": {
+      "title": "Before you confirm",
+      "short": "Review the product documents and confirm you understand the risks before placing this order.",
+      "full": "Placeholder: By confirming, you acknowledge you have received and reviewed the prospectus or product terms, and you authorize this simulated transaction."
+    },
+    "outside_comparison": {
+      "title": "About outside rates",
+      "short": "Outside rates are a category snapshot for comparison only, not an offer or endorsement.",
+      "full": "Placeholder: Outside account rates are approximate published category ranges and are shown for comparison only."
+    },
+    "debt_gate": {
+      "title": "About this suggestion",
+      "short": "This compares your card's interest rate with what cash could earn. It is not a debt-management plan.",
+      "full": "Placeholder: Debt comparison is illustrative and based on the card APR on file."
+    }
+  },
+  "documents": [
+    { "label": "Money market fund prospectus (placeholder)", "href": "#" },
+    { "label": "Self-Directed Investing account agreement (placeholder)", "href": "#" },
+    { "label": "Deposit Account Agreement (placeholder)", "href": "#" }
+  ]
+}

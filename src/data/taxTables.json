@@ -1,0 +1,74 @@
+{
+  "_note": "Simplified 2026 single-filer marginal-rate lookup for a prototype. Ignores the federal deduction for state tax, credits, and AMT. Brackets are approximate and should be reviewed before any customer-facing use.",
+  "tax_year": 2026,
+  "federal": {
+    "single": {
+      "standard_deduction": 16100,
+      "brackets": [
+        { "up_to": 12400, "rate": 0.10 },
+        { "up_to": 50400, "rate": 0.12 },
+        { "up_to": 105700, "rate": 0.22 },
+        { "up_to": 201775, "rate": 0.24 },
+        { "up_to": 256225, "rate": 0.32 },
+        { "up_to": 640600, "rate": 0.35 },
+        { "up_to": null, "rate": 0.37 }
+      ]
+    }
+  },
+  "states": {
+    "NY": {
+      "name": "New York",
+      "standard_deduction": 8000,
+      "brackets": [
+        { "up_to": 8500, "rate": 0.04 },
+        { "up_to": 11700, "rate": 0.045 },
+        { "up_to": 13900, "rate": 0.0525 },
+        { "up_to": 80650, "rate": 0.055 },
+        { "up_to": 215400, "rate": 0.06 },
+        { "up_to": 1077550, "rate": 0.0685 },
+        { "up_to": null, "rate": 0.0965 }
+      ],
+      "fund_exemption_threshold": 0.5
+    },
+    "TX": { "name": "Texas", "standard_deduction": 0, "brackets": [{ "up_to": null, "rate": 0 }] },
+    "OH": {
+      "name": "Ohio",
+      "standard_deduction": 0,
+      "brackets": [
+        { "up_to": 26050, "rate": 0 },
+        { "up_to": null, "rate": 0.0275 }
+      ]
+    },
+    "IL": { "name": "Illinois", "standard_deduction": 0, "brackets": [{ "up_to": null, "rate": 0.0495 }] },
+    "CA": {
+      "name": "California",
+      "standard_deduction": 5540,
+      "brackets": [
+        { "up_to": 10756, "rate": 0.01 },
+        { "up_to": 25499, "rate": 0.02 },
+        { "up_to": 40245, "rate": 0.04 },
+        { "up_to": 55866, "rate": 0.06 },
+        { "up_to": 70606, "rate": 0.08 },
+        { "up_to": 360659, "rate": 0.093 },
+        { "up_to": 432787, "rate": 0.103 },
+        { "up_to": 721314, "rate": 0.113 },
+        { "up_to": null, "rate": 0.123 }
+      ],
+      "fund_exemption_threshold": 0.5
+    },
+    "CT": { "name": "Connecticut", "standard_deduction": 0, "brackets": [{ "up_to": null, "rate": 0.055 }], "fund_exemption_threshold": 0.5 }
+  },
+  "localities": {
+    "NYC": {
+      "name": "New York City",
+      "state": "NY",
+      "standard_deduction": 8000,
+      "brackets": [
+        { "up_to": 12000, "rate": 0.03078 },
+        { "up_to": 25000, "rate": 0.03762 },
+        { "up_to": 50000, "rate": 0.03819 },
+        { "up_to": null, "rate": 0.03876 }
+      ]
+    }
+  }
+}
